@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Avengers Memory Game</string>
+    <string name="gamelogo">Game Logo</string>
+    <string name="cap1">Cap 1</string>
+    <string name="cap2">Cap 2</string>
+    <string name="iron1">Iron 1</string>
+    <string name="iron2">Iron 2</string>
+    <string name="hawk1">Hawk 1</string>
+    <string name="hawk2">Hawk 2</string>
+    <string name="thor1">Thor 1</string>
+    <string name="thor2">Thor 2</string>
+    <string name="widow1">Widow 1</string>
+    <string name="widow2">Widow 2</string>
+    <string name="hulk1">Hulk 1</string>
+    <string name="hulk2">Hulk 2</string>
+    <string name="title_activity_about">About</string>
+    <string name="aboutthisgame">
+        This game is about.....................
+    </string>
+</resources>
